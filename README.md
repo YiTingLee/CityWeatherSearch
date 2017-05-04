@@ -1,5 +1,6 @@
 CityWeatherSearch 
- 
+
+![image](https://github.com/YiTingLee/CityWeatherSearch/blob/master/projectgif.gif?raw=true)
 
 Use
 
