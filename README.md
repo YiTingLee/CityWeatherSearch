@@ -2,10 +2,10 @@ CityWeatherSearch
 
 ![image](https://github.com/YiTingLee/CityWeatherSearch/blob/master/projectgif.gif?raw=true)
 
-Use
+Use react,redux,redux-promise,google-maps,redux-promise,axios
 
+	> git clone https://github.com/YiTingLee/CityWeatherSearch/blob/master/projectgif.gif
 	> npm install
-	> npm install --save react-router
-	> npm install --save axios redux-promise
+	> npm start
 	
 end
