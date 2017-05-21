@@ -4,7 +4,7 @@ CityWeatherSearch
 
 Use react,redux,redux-promise,google-maps,redux-promise,axios
 
-	> git clone https://github.com/YiTingLee/CityWeatherSearch/blob/master/projectgif.gif
+	> git clone https://github.com/YiTingLee/CityWeatherSearch.git
 	> npm install
 	> npm start
 	
